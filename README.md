@@ -45,5 +45,5 @@ ft_malloc/
 
 You can include and compile the C files you need in your own project:
 
-📜 License
+## 📜 License
 This is provided for educational purposes and is unlicensed. Feel free to reuse and modify
