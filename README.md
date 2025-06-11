@@ -3,7 +3,7 @@
 A collection of utility functions in C, including basic string, memory, and I/O operations. This repository also includes a minimal custom memory allocation implementation.
 
 ## 📁 Structure
-
+```
 ft_util/
 ├── ft_atoi.c
 ├── ft_putchar.c
@@ -26,7 +26,7 @@ ft_malloc/
 ├── ft_malloc.c
 ├── ft_malloc_header.h
 ├── linked_list.c
-
+```
 
 ## ✨ Features
 
