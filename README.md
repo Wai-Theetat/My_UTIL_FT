@@ -45,8 +45,5 @@ ft_malloc/
 
 You can include and compile the C files you need in your own project:
 
-```bash
-gcc -Wall -Wextra -Werror ft_util/ft_strlen.c main.c -o main
-
 📜 License
 This is provided for educational purposes and is unlicensed. Feel free to reuse and modify
