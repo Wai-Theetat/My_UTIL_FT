@@ -1,4 +1,4 @@
-# ft_util
+# FT_UTIL
 
 A collection of utility functions in C, including basic string, memory, and I/O operations. This repository also includes a minimal custom memory allocation implementation.
 
